@@ -1,0 +1,39 @@
+date,meal_type,item_name,prepared_qty,unit,students_served,leftover_qty,shortage_refill_qty,recorded_by_place
+2026-11-13,Breakfast,Poha,15,kg,152,0.8,0,BH-7 Mess kitchen counter
+2026-11-13,Breakfast,Boiled eggs,165,eggs,148,6,0,BH-7 Mess serving desk
+2026-11-13,Breakfast,Tea,150,cups,152,0,12,BH-7 Mess serving desk
+2026-11-13,Lunch,Raw rice (soaked),27.5,kg,208,1.8,0,BH-7 Mess kitchen counter
+2026-11-13,Lunch,Arhar dal,7.4,kg,208,0.4,0,BH-7 Mess kitchen counter
+2026-11-13,Lunch,Aloo-gobi sabzi,24,kg,208,1.5,0,BH-7 Mess serving desk
+2026-11-13,Evening Snacks,Samosa,190,pieces,171,12,0,BH-7 Mess serving desk
+2026-11-13,Evening Snacks,Tea,165,cups,171,0,0,BH-7 Mess serving desk
+2026-11-13,Dinner,Chicken curry (Non-Veg),34.5,kg,141,0.8,0,BH-7 Mess kitchen counter
+2026-11-13,Dinner,Matar paneer (Veg),8.2,kg,79,0.3,0,BH-7 Mess serving desk
+2026-11-13,Dinner,Raw rice (washed),28,kg,220,2,0,BH-7 Mess kitchen counter
+2026-11-13,Dinner,Roti (atta),14.5,kg,220,0.5,0,BH-7 Mess kitchen counter
+2026-11-14,Breakfast,Idli batter (with sambar),17.5,kg,160,1.2,0,BH-7 Mess kitchen counter
+2026-11-14,Breakfast,Boiled eggs,155,eggs,139,0,14,BH-7 Mess serving desk
+2026-11-14,Lunch,Raw rice (soaked),29,kg,218,1.5,0,BH-7 Mess kitchen counter
+2026-11-14,Lunch,Rajma,8.5,kg,218,0,2,BH-7 Mess kitchen counter
+2026-11-14,Lunch,Papad,225,pieces,218,5,0,BH-7 Mess serving desk
+2026-11-14,Evening Snacks,Bread pakora,195,pieces,164,17,0,BH-7 Mess serving desk
+2026-11-14,Evening Snacks,Tea,170,cups,164,0,10,BH-7 Mess serving desk
+2026-11-14,Dinner,Egg curry (Non-Veg),165,eggs,131,7,0,BH-7 Mess kitchen counter
+2026-11-14,Dinner,Chhole (Veg),10.5,kg,94,0.8,0,BH-7 Mess serving desk
+2026-11-14,Dinner,Jeera rice (washed),27,kg,225,1.6,0,BH-7 Mess kitchen counter
+2026-11-14,Dinner,Roti (atta),14.8,kg,225,0.7,0,BH-7 Mess kitchen counter
+2026-11-15,Breakfast,Wheat flour (Sattu Paratha),9.2,kg,138,0.5,0,BH-7 Mess kitchen counter
+2026-11-15,Breakfast,Roasted chana sattu (Sattu Paratha),4.5,kg,138,0.3,0,BH-7 Mess kitchen counter
+2026-11-15,Breakfast,Boiled eggs,150,eggs,131,0,10,BH-7 Mess serving desk
+2026-11-15,Breakfast,Banana,52,pieces,46,3,0,BH-7 Mess serving desk
+2026-11-15,Lunch,Raw rice (soaked),28,kg,212,2.2,0,BH-7 Mess kitchen counter
+2026-11-15,Lunch,Mixed dal (masoor + moong),7,kg,212,0.5,0,BH-7 Mess kitchen counter
+2026-11-15,Lunch,Fryums,5,packet,212,0,1,BH-7 Mess serving desk
+2026-11-15,Evening Snacks,Potatoes boiled and mashed (Aloo Chop),12,kg,178,0,0,BH-7 Mess kitchen counter
+2026-11-15,Evening Snacks,Besan batter (Aloo Chop),4,kg,178,0.3,0,BH-7 Mess kitchen counter
+2026-11-15,Evening Snacks,Aloo Chop,240,pieces,178,11,0,BH-7 Mess serving desk
+2026-11-15,Evening Snacks,Tea,185,cups,178,0,0,BH-7 Mess serving desk
+2026-11-15,Dinner,Kadai Chicken and Chicken Fry (Non-Veg),37,kg,148,1.5,0,BH-7 Mess kitchen counter
+2026-11-15,Dinner,Kadai Paneer and Paneer Fry (Veg),9,kg,78,0,1.5,BH-7 Mess kitchen counter
+2026-11-15,Dinner,Jeera/Pulao rice (washed),28,kg,226,2,0,BH-7 Mess kitchen counter
+2026-11-15,Dinner,Methi Puri (atta),14.5,kg,226,0.6,0,BH-7 Mess kitchen counter
